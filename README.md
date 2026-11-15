@@ -12,7 +12,7 @@ Tools: Excel, SQL, Data Analysis
 
 A case study analysing Fitbit fitness tracker data to understand user activity and sleep patterns and identify opportunities to improve Bellabeat’s wellness app and marketing strategy.
 
-View Case Study
+[View Case Study](./Bellabeat_Case_Study.docx)
 
 2. E-commerce Marketing & Sales Funnel Analysis
 
@@ -20,7 +20,7 @@ Tools: SQL, Google BigQuery, Excel
 
 An e-commerce analytics project examining customer conversion, sales funnel performance, traffic sources and revenue metrics using SQL.
 
-View Project
+[View Project](./Ecommerce-Marketing-Sales-Funnel/)
 
 Technical Skills
 
