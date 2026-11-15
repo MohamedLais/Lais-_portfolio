@@ -1,45 +1,39 @@
-# Lais-_portfolio
-Analytics Portfolio
+Mohamed Lais | Analytics Portfolio
 
-Bellabeat: Smart Device Usage & Growth Opportunities
+Welcome to my Data Analytics Portfolio!
 
-Project Overview
+This repository showcases my data analytics projects, case studies and practical applications of data analysis using tools such as SQL, Excel, Google BigQuery and data visualization.
 
-This case study analyzes Fitbit fitness tracker data to understand user activity and sleep patterns and identify opportunities to improve Bellabeat’s wellness app and marketing strategy.
+Projects
 
-Business Task
+1. Bellabeat – Smart Device Usage & Growth Opportunities
 
-Understand how consumers use smart fitness devices and recommend ways Bellabeat can improve user engagement through personalized wellness features.
+Tools: Excel, SQL, Data Analysis
 
-Tools Used
+A case study analysing Fitbit fitness tracker data to understand user activity and sleep patterns and identify opportunities to improve Bellabeat’s wellness app and marketing strategy.
 
-* Data analysis and cleaning
-* Statistical analysis
-* Data visualization
+View Case Study
 
-Dataset
+2. E-commerce Marketing & Sales Funnel Analysis
 
-The analysis uses publicly available Fitbit Fitness Tracker data from 2016, covering daily activity and sleep records.
+Tools: SQL, Google BigQuery, Excel
 
-Key Findings
+An e-commerce analytics project examining customer conversion, sales funnel performance, traffic sources and revenue metrics using SQL.
 
-* Average daily steps were approximately 7,247.
-* Users recorded an average of 993 sedentary minutes per day.
-* Average recorded sleep was approximately 6 hours and 59 minutes.
-* Steps and estimated calories had a moderate positive correlation of approximately 0.59.
-* Weekend activity patterns varied, with Sunday recording the lowest average steps.
+View Project
 
-Recommendations
+Technical Skills
 
-* Introduce personalized daily step goals.
-* Encourage short movement breaks through optional reminders.
-* Make sleep tracking easier and provide weekly summaries.
-* Test recommendations using A/B testing and measure engagement and retention.
+* SQL
+* Google BigQuery
+* Microsoft Excel
+* Data Cleaning
+* Exploratory Data Analysis
+* Data Visualization
+* Business Analysis
 
-Conclusion
+About Me
 
-The analysis suggests that Bellabeat could improve user engagement through achievable activity goals, personalized reminders, and more useful sleep tracking. These recommendations should be tested using Bellabeat’s own customer data.
+I’m Mohamed Lais, an Economics graduate-in-progress pursuing further studies in Data Science, with an interest in data analytics, business intelligence and management consulting.
 
-Limitations
-
-The dataset is from 2016 and includes a relatively small sample of Fitbit users. The findings may not represent Bellabeat customers or current wearable-device behavior.
+This portfolio documents my learning journey and practical experience in transforming data into meaningful business insights.
